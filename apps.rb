@@ -7,7 +7,7 @@ $:.unshift(ENV['APP_ROOT'])       # set load paths
 require 'rubygems'                # require
 require 'sinatra'                 # libs
 
-get '/ip' do
+get '/ip/?' do
   raw = @request.env["REMOTE_ADDR"]
   raw.match(/^(\d+\.\d+\.\d+\.\d+),?/)
   $1
