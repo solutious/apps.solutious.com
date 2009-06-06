@@ -1,2 +1,2 @@
-require 'myip'
+require 'apps'
 run Sinatra::Application
