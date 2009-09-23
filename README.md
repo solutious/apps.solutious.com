@@ -4,7 +4,7 @@ These apps are generously hosted by Heroku!
 
 ## List of Apps ##
 
-* [IP Address](http://solutious.heroku.com/ip)
+* [IP Address](http://stella.solutious.com/ip)
 
 ## Workflow ##
 
