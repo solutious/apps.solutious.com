@@ -14,4 +14,5 @@ get '/ip/?' do
 end
 
 get '/' do
+  "Stella! Stella! Can't you hear me yell-a, you're puttin' me through hell-a, Stella, Stellaaahhhh!"
 end
